@@ -1,0 +1,22 @@
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (1, 'tester', '별명', 'Aa!123456789', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (2, 'tester2', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (3, 'tester3', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (4, 'tester4', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (5, 'tester5', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (6, 'tester6', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (7, 'tester7', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (8, 'tester8', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (9, 'tester9', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (10, 'tester10', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (11, 'tester11', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (12, 'tester12', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (13, 'tester13', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (14, 'tester14', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (15, 'tester15', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (16, 'tester16', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+-- insert into member (`member_id`, `name`, `nick_name`, `password`, `phone_num`, `email`, `sex`, `salt`) values (17, 'tester17', '별명', '패스워드', 1234, 'email', '남자', '솔트');
+--
+-- insert into orders (`order_id`, `member_id`, `item_name`, `order_date`) values (1, 1, '아이템1', now());
+-- insert into orders (`order_id`, `member_id`, `item_name`, `order_date`) values (2, 1, '아이템2', now()+1);
+-- insert into orders (`order_id`, `member_id`, `item_name`, `order_date`) values (3, 1, '아이템3', now()+2);
+-- insert into orders (`order_id`, `member_id`, `item_name`, `order_date`) values (4, 1, '아이템4', now()+3);
